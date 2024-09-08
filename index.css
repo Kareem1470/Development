@@ -1,3 +1,11 @@
+html{
+    display: block;
+}
+
+html:focus{
+    outline: none;
+}
+
 *{
     text-align: center;
     background-color: lightblue;
